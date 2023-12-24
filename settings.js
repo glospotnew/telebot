@@ -7,7 +7,7 @@ Replace Your Key with the apikey that you get in your profile.
 module.exports = {
   ownerUsernames: ["@Zzyiiii"],//Your Username
   ownerNumber: "6282336156941",//Your Number 
-  telegramBotToken: "",//Your Bot Tokens
+  telegramBotToken: "6023566224:AAG1YD0IUp7DeOpxpuHI7Fhn-Ui-4EffEic",//Your Bot Tokens
   imageUrl: "https://aemt.me/file/ABtGWqanocBS.jpg",//Thumbnail Url
   buttonUrl: "https//TELEGRAM-bot.com",//Script Url
   api: "https://api.betabotz.org",
