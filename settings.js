@@ -5,11 +5,11 @@ Replace Your Key with the apikey that you get in your profile.
 */
 
 module.exports = {
-  ownerUsernames: [""],//Your Username
-  ownerNumber: "",//Your Number 
+  ownerUsernames: ["@Zzyiiii"],//Your Username
+  ownerNumber: "6282336156941",//Your Number 
   telegramBotToken: "",//Your Bot Tokens
-  imageUrl: "https://aemt.me/file/IESxiuAvGCyZ.jpg",//Thumbnail Url
-  buttonUrl: "https://github.com/ERLANRAHMAT/telebot",//Script Url
+  imageUrl: "https://aemt.me/file/ABtGWqanocBS.jpg",//Thumbnail Url
+  buttonUrl: "https//TELEGRAM-bot.com",//Script Url
   api: "https://api.betabotz.org",
   apikey: "Your Key",//Change Your Apikey
   mess: {
