@@ -9,9 +9,9 @@ module.exports = {
   ownerNumber: "6282336156941",//Your Number 
   telegramBotToken: "6023566224:AAG1YD0IUp7DeOpxpuHI7Fhn-Ui-4EffEic",//Your Bot Tokens
   imageUrl: "https://aemt.me/file/ABtGWqanocBS.jpg",//Thumbnail Url
-  buttonUrl: "https//TELEGRAM-bot.com",//Script Url
+  buttonUrl: "https://github.com/ERLANRAHMAT/telebot",//Script Url
   api: "https://api.betabotz.org",
-  apikey: "Your Key",//Change Your Apikey
+  apikey: "UlU5gDKh",//Change Your Apikey
   mess: {
     eror: "Internal Server Eror 😵",
     owner: "Sorry, this command can only be accessed by the owner!",
